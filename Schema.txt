@@ -1,0 +1,17 @@
+Game ID (each game)
+Player ID
+Player Name
+Team ID
+Team Name
+Weapon Name
+Weapon Strength Rank
+Map location where the kill taken
+ID of the player who was killed
+Player name who was killed
+Player team ID
+Player team name
+weapon through he/she was killed
+weapon rank
+Map location
+engagement : when both the player were engaged with each other
+Timestamp when kill was taken
